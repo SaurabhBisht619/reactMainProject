@@ -1,0 +1,31 @@
+.sliderContainer {
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    height: auto;
+  }
+  
+  .slider {
+    display: flex;
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 30px 20px;
+  }
+  
+  .prevBtn,
+  .nextBtn {
+    border: none;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: larger;
+    margin-top: 25vh;
+  }
+  
+  .sliderImage{
+    width: 400px;
+    height: 400px;
+  }

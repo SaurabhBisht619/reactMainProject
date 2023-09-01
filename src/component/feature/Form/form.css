@@ -1,0 +1,69 @@
+.required{
+    font-size: 16px;
+    color: red;
+}
+
+.nameDiv, .mobileDiv{
+	height: 100px;
+	width: 314px;
+	background-color: #FDFEFE;
+	margin: 20px;
+	border-radius: 8px;
+}
+
+.name{
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+
+
+.inputDiv{
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+
+.inputDiv input{
+	width: 170px;
+	border: 0;
+	outline: 0;
+	border-bottom: 1.5px solid #DCD7D7;
+	font-size: 15px;
+}
+
+
+.btn{
+	height: 36px;
+	width: 100px;
+	background-color: #6703c4;
+	border-radius: 5px;
+	font-size: 14px;
+	letter-spacing: .5px;
+	font-weight: 540;
+	border: none;
+	padding: 10px;
+	position: absolute;
+	margin: 15px;
+	color: white;
+}
+
+
+
+.formContainer{
+    border: 2px solid #6703c4;
+    width: 25%;
+    background-color:rgb(236, 239, 251);
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    border-radius: 10px;
+}
+
+.topHeader{
+    background-color: #FDFEFE;
+	border-radius: 8px;
+	border-top: 8px solid #6703c4;
+}
+
